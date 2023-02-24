@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a bachelor’s degree in web development at Bellevue University
+- 🌱 I’m currently learning HTML, CSS, Cloud Computing, and Serverless
+- 💬 Ask me about anything related to JavaScript, Node, Express, TypeScript, Ionic, Cordova, or Angular
+- 📫 How to reach me: Send me an email or hit me up [@jordan_andrew](https://www.instagram.com/jordan_andrew/) on Instagram
+- ⚡ Fun fact: I'm a Marine Corps veteran turned software engineer 🫡
+
 <!--
 **jrdnndrw/jrdnndrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
