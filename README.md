@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently finishing a BS degree in Software Engineering at Western Governors University
+- 📚 I’m currently finishing a BS degree in Software Engineering at Western Governors University
 - 🌱 I’m currently learning Next.js and Kotlin/Ktor
 - 💬 Ask me about full-stack development, security, or architecture
 - 📫 How to reach me: Send me an email or connect with me on [LinkedIn](https://www.linkedin.com/in/jordan-nishimura-anderson-44062346)
